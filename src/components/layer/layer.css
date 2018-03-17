@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.layer {
+    width: 500px;
+    height: 200px;
+    background: url("../../assets/bg.jpg");
+}
